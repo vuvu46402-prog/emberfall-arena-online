@@ -1,0 +1,9 @@
+{
+  "name": "emberfall-online-room-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Room-code WebSocket lobby starter for Emberfall Arena",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.0"}
+}
